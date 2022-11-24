@@ -1,0 +1,2 @@
+admin page where the admin can see all the csv uploaded and process them
+cyclist page where the cyclist can see his certificate and download it
